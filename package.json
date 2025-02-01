@@ -1,0 +1,30 @@
+{
+  "name": "userscripts",
+  "version": "1.0.0",
+  "description": "My userscripts, for public use",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0rsted/userscripts.git"
+  },
+  "keywords": [
+    "userscripts"
+  ],
+  "author": "0rsted",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0rsted/userscripts/issues"
+  },
+  "homepage": "https://github.com/0rsted/userscripts#readme",
+  "dependencies": {
+    "eslint": "^9.19.0",
+    "eslint-plugin-userscripts": "^0.5.6",
+    "image-size": "^1.2.0",
+    "image-to-base64": "^2.2.0",
+    "tinify": "^1.7.1"
+  },
+  "type": "module"
+}
