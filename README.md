@@ -8,7 +8,8 @@ My userscripts, for public use
 The danish vegan webshop GreenOS merged their code with nuttyvegan, with the 
 unfortunate result that it became nigh impossible to see if a product was in
 stock, or not.   
-![Greenos before the script](/assets/greenos-before.png "before the script")   
+![Greenos before the script](./assets/greenos-before.png "before the script")   
+![Greenos with the script](./assets/greenos-after.png "with the script")   
 The script is rather simple, as it just adds a small CSS at the head of the page
 resulting in the removal of the 'read more' button, and the fading out of the
 tile.   
